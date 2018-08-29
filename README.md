@@ -1,2 +1,2 @@
-# 1802-project
+#project
 小项目
